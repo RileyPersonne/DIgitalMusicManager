@@ -1,0 +1,9 @@
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/DMM.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/install.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/install/local.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/DMM_autogen_timestamp_deps.dir
+/home/riley/CLionProjects/DMM/cmake-build-debug/CMakeFiles/DMM_autogen.dir

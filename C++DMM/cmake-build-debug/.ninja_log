@@ -1,0 +1,25 @@
+# ninja log v5
+203	4397	1710734413518919694	CMakeFiles/DMM.dir/DMM_autogen/mocs_compilation.cpp.o	97fe54cc93727252
+203	2747	1710734411870849466	CMakeFiles/DMM.dir/main.cpp.o	5f5e521cd19480ca
+2	11	1710735082175412201	DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+2	11	1710735082175412201	DMM_autogen/timestamp	825b369b5db47afd
+0	33	1710773182054019452	build.ninja	c873f6a30bb6a61d
+2324	2595	1710735084755522144	DMM	6cb8bafcd4eaa4b1
+13	2324	1710735084487510723	CMakeFiles/DMM.dir/mainwindow.cpp.o	8a5c5df58f91b147
+2	11	1710735082175412201	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/timestamp	825b369b5db47afd
+231	1495	1710715576831796592	CMakeFiles/DMM.dir/subwindow.cpp.o	3b6db239998cece7
+2	11	1710735082175412201	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+3	13	1710773415469232959	DMM_autogen/timestamp	825b369b5db47afd
+3	13	1710773415469232959	DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+3	13	1710773415469232959	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/timestamp	825b369b5db47afd
+3	13	1710773415469232959	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+14	2460	1710773417912889713	CMakeFiles/DMM.dir/mainwindow.cpp.o	8a5c5df58f91b147
+2460	2737	1710773418188850951	DMM	6cb8bafcd4eaa4b1
+2	249	1710823895543007481	DMM_autogen/timestamp	825b369b5db47afd
+2	249	1710823895543007481	DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+2	249	1710823895543007481	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/timestamp	825b369b5db47afd
+2	249	1710823895543007481	/home/riley/CLionProjects/DMM/cmake-build-debug/DMM_autogen/mocs_compilation.cpp	825b369b5db47afd
+249	2910	1710823898206633336	CMakeFiles/DMM.dir/DMM_autogen/mocs_compilation.cpp.o	97fe54cc93727252
+250	2929	1710823898222631089	CMakeFiles/DMM.dir/mainwindow.cpp.o	8a5c5df58f91b147
+249	4271	1710823899566442332	CMakeFiles/DMM.dir/main.cpp.o	5f5e521cd19480ca
+4271	4541	1710823899834404693	DMM	6cb8bafcd4eaa4b1
